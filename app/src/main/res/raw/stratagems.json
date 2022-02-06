@@ -1,0 +1,8 @@
+{"Stratagems":[
+  {"faction": "  ", "name": "", "CPCost": "", "Description": "", "Phases":["",""], "When":"Your Turn| Oppenents Turn|Before Battle"},
+  {"faction": "Thousand Sons", "name": "Scroll of wrath", "CPCost": "1", "Description": "Smite does flat 3 mortal wounds rather than D3", "Phases":["Physic"], "When":"Your turn"},
+  {"faction": "Thousand Sons", "name": "FATED MUTATION", "CPCost": "1", "Description": "Until the end of the phase, each time you determine the number of Attacks a model in that unit can make, add 1 to the result.", "Phases":["Fight"], "When":"Both"},
+  {"faction": "Thousand Sons", "name": "ENSORCELLED INFUSION\n", "CPCost": "1", "Description": "Until the end of the phase, improve the Armour Penetration characteristic of ranged weapons that model is equipped with by 1.", "Phases":["Shooting"], "When":"Your turn"},
+  {"faction": "Adeptus Custodes", "name": "TANGLEFOOT GRENADE\n", "CPCost": "1", "Description": "Subtract an equivalent number of inches from that enemy unit’s move or charge", "Phases":["Movement","Charge"], "When":"Oppenents"},
+  {"faction": "Adeptus Custodes", "name": "ARCANE GENETIC ALCHEMY\n", "CPCost": "1/2", "Description": "An unmodified wound roll of 1-3 for that attack fails.", "Phases":["Command","Movement","Psychic","Shooting","Charge","Fight","Morale"], "When":"Both"}
+]}
